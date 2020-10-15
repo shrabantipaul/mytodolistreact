@@ -1,0 +1,32 @@
+.main {
+    width: 80%;
+    margin: 2rem auto;
+    font-family: sans-serif;
+}
+
+.list {
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.heading {
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.description {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.btn {
+    background: #4CAF50;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    color: white;
+    letter-spacing: 1px;
+}

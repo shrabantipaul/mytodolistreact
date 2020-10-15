@@ -1,0 +1,42 @@
+.form-entry {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.formip {
+   margin-right: 10rem;
+    width: 40%;
+}
+
+label {
+    margin-left: 10rem;
+}
+
+.buttons {
+    display: flex;
+    margin-left: 30rem;
+}
+
+button { 
+    margin-right: 2rem;
+    padding: 0.5rem 2rem;
+    color: white;
+    border-radius: 2px;
+    border: none;
+}
+
+.add {
+    background-color: #4CAF50;
+}
+
+.cancel {
+    background-color: #ff3300;
+}
+
+ul {
+    list-style-type: none;
+}
+.incorrect {
+    margin-left: 30rem;
+}
